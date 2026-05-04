@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي يغني لك
+> روحي في الليل تنادي لك
+> أنت النور في وسط الظلام
+> معك أعيش في أحلى غرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
